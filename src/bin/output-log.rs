@@ -1,5 +1,5 @@
 fn main(){}
-/**
+/*
  * Debería de salir esto
  * 
  * $ $env:RUST_LOG="info"
