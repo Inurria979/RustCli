@@ -1,0 +1,3 @@
+some text in the file
+more text that should be printed
+pattern
